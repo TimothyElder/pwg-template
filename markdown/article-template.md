@@ -7,11 +7,11 @@ author:
 - name: Joe Bloggs
   affiliation: Northwestern University
   email: joebloggs@northwestern.edu
-date: November 2022
+date: January 2023
 thanks: "Thank you to the everyone that supported this work."
-abstract: The War of the Roses was a significant event in English history that had far-reaching implications for the relationships between England and France. This paper explores the impact of the conflict on the political, economic, and cultural ties between the two countries. The war resulted in significant changes to the English monarchy, which had repercussions for the English crown's relationships with other European powers, including France. The paper examines how the conflict influenced the development of English nationalism and the strengthening of the monarchy, which had implications for England's interactions with France. In addition, the war had economic impacts that affected the relationships between the two countries. The conflict disrupted trade and commerce, which had consequences for the economies of both England and France. The paper explores the ways in which the war influenced the development of the economies of both countries, and the impact of these changes on their relationships. In conclusion, the War of the Roses had significant implications for English-French relations, affecting the political, economic, and cultural ties between the two countries. This paper provides an in-depth analysis of these impacts, and sheds light on the lasting effects of this important event in English history.
+abstract: The War of the Roses was a significant event in English history that had far-reaching implications for the relationships between England and France. This paper explores the impact of the conflict on the political, economic, and cultural ties between the two countries. The war resulted in significant changes to the English monarchy, which had repercussions for the English crown's relationships with other European powers, including France. This paper provides an in-depth analysis of these impacts, and sheds light on the lasting effects of this important event in English history.
 bibliography: [war-of-roses.bib]
-...
+---
 
 # The War of the Roses
 
