@@ -59,6 +59,7 @@ The last Lancaster king, Henry VI, was a weak ruler who suffered from mental ill
 ------------------- ------------- ------------- -------------
 
 # Conclusion
+
 War? What is it good for?
 
 # References
